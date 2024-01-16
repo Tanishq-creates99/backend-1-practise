@@ -1,6 +1,6 @@
 Brief demo of backend aspect of MERN stack i.e MongoDb, Node.js , Express.js , by creating a fullfledge back end routes, controller , models .
 <p>Along with JavascriptWeb Tokens for signin procedure using it as middleware in contollers .</p>
-1 - Creating package.json by npm init and installing necessary f/w like express, mongoose , mongodb . \n
+1 - Creating package.json by npm init and installing necessary f/w like express, mongoose , mongodb . 
 2 - Importing all necessary tools and listening server on any port 
 3 - using .env for storing crucial ecrypted links and port number.
 4 - define routes for backend for eg /products , /users
